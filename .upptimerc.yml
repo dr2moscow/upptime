@@ -5,8 +5,20 @@ repo: upptime # The name of this repository
 sites:
   - name: gorzdrav.org
     url: https://gorzdrav.org
+    icon: https://www.gorzdrav.org/favicon.ico
+    maxResponseTime: 700
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
   - name: 366.ru
     url: https://366.ru
+    icon: https://366.ru/favicon.ico
+    maxResponseTime: 700
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
 
 
 status-website:
@@ -14,7 +26,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: gorzdrav.org
   # baseUrl: /your-repo-name
-  logoUrl: https://gorzdrav.org/medias/-.svg?context=bWFzdGVyfGltYWdlc3wzMDQ0fGltYWdlL3N2Zyt4bWx8aW1hZ2VzL2hkYi9oNWMvMTAwMTIwNTczNzA2NTQuc3ZnfDJhNzVjZjA5MzY1NTZjOGRhZGM2MGRiZGVhOTVkNTc3YmY1MDY3Y2U2MGY3ZjdiNDVlYWQ1Y2I3NjNkNTIzY2M  
+  # logoUrl: https://gorzdrav.org/medias/-.svg?context=bWFzdGVyfGltYWdlc3wzMDQ0fGltYWdlL3N2Zyt4bWx8aW1hZ2VzL2hkYi9oNWMvMTAwMTIwNTczNzA2NTQuc3ZnfDJhNzVjZjA5MzY1NTZjOGRhZGM2MGRiZGVhOTVkNTc3YmY1MDY3Y2U2MGY3ZjdiNDVlYWQ1Y2I3NjNkNTIzY2M  
   name: gorzdrav.org
   # introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
