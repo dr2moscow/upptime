@@ -4,7 +4,7 @@
     "url": "https://gorzdrav.org",
     "icon": "https://www.gorzdrav.org/favicon.ico",
     "slug": "gorzdrav-org",
-    "status": "degraded",
+    "status": "down",
     "uptime": "4.95%",
     "uptimeDay": "2.28%",
     "uptimeWeek": "3.52%",
@@ -16,7 +16,7 @@
     "timeMonth": 1634,
     "timeYear": 1817,
     "dailyMinutesDown": {
-      "2022-07-14": 1197,
+      "2022-07-14": 1256,
       "2022-07-13": 1408,
       "2022-07-12": 1280,
       "2022-07-11": 1426,
