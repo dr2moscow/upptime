@@ -16,7 +16,7 @@
     "timeMonth": 5139,
     "timeYear": 2303,
     "dailyMinutesDown": {
-      "2023-01-25": 468,
+      "2023-01-25": 473,
       "2023-01-24": 1440,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
@@ -231,7 +231,7 @@
     "url": "https://366.ru",
     "icon": "https://366.ru/favicon.ico",
     "slug": "366-ru",
-    "status": "degraded",
+    "status": "down",
     "uptime": "86.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.24%",
@@ -243,7 +243,7 @@
     "timeMonth": 4454,
     "timeYear": 1116,
     "dailyMinutesDown": {
-      "2023-01-25": 468,
+      "2023-01-25": 473,
       "2023-01-24": 1440,
       "2023-01-23": 1421,
       "2023-01-22": 1440,
