@@ -5,14 +5,14 @@
     "icon": "https://www.gorzdrav.org/favicon.ico",
     "slug": "gorzdrav-org",
     "status": "up",
-    "uptime": "63.33%",
+    "uptime": "63.34%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "89.52%",
+    "uptimeWeek": "89.68%",
     "uptimeMonth": "95.65%",
-    "uptimeYear": "63.33%",
+    "uptimeYear": "63.34%",
     "time": 2335,
-    "timeDay": 934,
-    "timeWeek": 2066,
+    "timeDay": 773,
+    "timeWeek": 2073,
     "timeMonth": 2082,
     "timeYear": 2335,
     "dailyMinutesDown": {
@@ -156,17 +156,17 @@
     "url": "https://366.ru",
     "icon": "https://366.ru/favicon.ico",
     "slug": "366-ru",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.26%",
-    "uptimeDay": "98.68%",
+    "uptimeDay": "98.66%",
     "uptimeWeek": "86.39%",
     "uptimeMonth": "94.05%",
     "uptimeYear": "99.26%",
-    "time": 1653,
-    "timeDay": 1219,
-    "timeWeek": 1612,
+    "time": 1654,
+    "timeDay": 1263,
+    "timeWeek": 1598,
     "timeMonth": 1720,
-    "timeYear": 1653,
+    "timeYear": 1654,
     "dailyMinutesDown": {
       "2023-03-27": 19,
       "2023-03-25": 35,
@@ -198,7 +198,7 @@
       "2023-02-14": 50,
       "2023-02-13": 53,
       "2023-02-11": 57,
-      "2023-02-10": 22
+      "2023-02-10": 1
     }
   }
 ]
