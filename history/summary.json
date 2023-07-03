@@ -11,8 +11,8 @@
     "uptimeMonth": "97.07%",
     "uptimeYear": "99.41%",
     "time": 2077,
-    "timeDay": 1496,
-    "timeWeek": 1337,
+    "timeDay": 1491,
+    "timeWeek": 1334,
     "timeMonth": 1986,
     "timeYear": 2106,
     "dailyMinutesDown": {
@@ -68,14 +68,14 @@
     "url": "https://366.ru",
     "icon": "https://366.ru/favicon.ico",
     "slug": "366-ru",
-    "status": "up",
+    "status": "down",
     "uptime": "99.44%",
-    "uptimeDay": "97.24%",
-    "uptimeWeek": "98.66%",
+    "uptimeDay": "97.22%",
+    "uptimeWeek": "98.65%",
     "uptimeMonth": "99.40%",
     "uptimeYear": "99.39%",
     "time": 1366,
-    "timeDay": 213,
+    "timeDay": 236,
     "timeWeek": 425,
     "timeMonth": 817,
     "timeYear": 1389,
@@ -115,8 +115,7 @@
       "2023-03-11": 15,
       "2023-03-10": 68,
       "2023-03-09": 51,
-      "2023-03-06": 29,
-      "2023-03-04": 20
+      "2023-03-06": 29
     }
   }
 ]
