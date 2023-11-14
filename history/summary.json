@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.42%",
-    "time": 2095,
-    "timeDay": 478,
-    "timeWeek": 507,
+    "time": 2093,
+    "timeDay": 127,
+    "timeWeek": 456,
     "timeMonth": 366,
-    "timeYear": 1998,
+    "timeYear": 1994,
     "dailyMinutesDown": {
       "2023-09-12": 22,
       "2023-07-13": 22,
@@ -73,17 +73,16 @@
     "slug": "366-ru",
     "status": "up",
     "uptime": "99.58%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.39%",
     "time": 1293,
     "timeDay": 1139,
-    "timeWeek": 766,
+    "timeWeek": 768,
     "timeMonth": 484,
-    "timeYear": 1385,
+    "timeYear": 1384,
     "dailyMinutesDown": {
-      "2023-11-13": 8,
       "2023-09-12": 37,
       "2023-07-04": 19,
       "2023-07-03": 57,
@@ -120,7 +119,7 @@
       "2023-03-12": 120,
       "2023-03-11": 15,
       "2023-03-10": 68,
-      "2023-03-09": 16
+      "2023-03-09": 31
     }
   }
 ]
