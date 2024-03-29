@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.66%",
-    "time": 1455,
-    "timeDay": 694,
-    "timeWeek": 572,
-    "timeMonth": 1946,
-    "timeYear": 1371,
+    "time": 1410,
+    "timeDay": 679,
+    "timeWeek": 573,
+    "timeMonth": 1952,
+    "timeYear": 1364,
     "dailyMinutesDown": {
       "2024-03-04": 40,
       "2024-02-27": 17,
@@ -55,8 +55,7 @@
       "2023-05-27": 83,
       "2023-05-22": 16,
       "2023-05-01": 17,
-      "2023-03-31": 46,
-      "2023-03-30": 17
+      "2023-03-31": 46
     }
   },
   {
@@ -65,16 +64,16 @@
     "icon": "https://366.ru/favicon.ico",
     "slug": "366-ru",
     "status": "up",
-    "uptime": "99.66%",
+    "uptime": "99.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.87%",
+    "uptimeYear": "99.88%",
     "time": 765,
     "timeDay": 128,
     "timeWeek": 272,
-    "timeMonth": 342,
-    "timeYear": 605,
+    "timeMonth": 324,
+    "timeYear": 582,
     "dailyMinutesDown": {
       "2023-09-12": 37,
       "2023-07-04": 19,
@@ -93,8 +92,7 @@
       "2023-05-22": 15,
       "2023-05-01": 17,
       "2023-04-16": 24,
-      "2023-03-31": 49,
-      "2023-03-30": 89
+      "2023-03-31": 49
     }
   }
 ]
