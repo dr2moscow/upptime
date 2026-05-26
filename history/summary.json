@@ -6,15 +6,15 @@
     "slug": "gorzdrav-org",
     "status": "degraded",
     "uptime": "99.53%",
-    "uptimeDay": "63.27%",
-    "uptimeWeek": "68.89%",
-    "uptimeMonth": "80.12%",
-    "uptimeYear": "98.26%",
-    "time": 435,
-    "timeDay": 720,
-    "timeWeek": 896,
-    "timeMonth": 745,
-    "timeYear": 462,
+    "uptimeDay": "62.11%",
+    "uptimeWeek": "67.79%",
+    "uptimeMonth": "79.73%",
+    "uptimeYear": "98.23%",
+    "time": 436,
+    "timeDay": 770,
+    "timeWeek": 906,
+    "timeMonth": 746,
+    "timeYear": 463,
     "dailyMinutesDown": {
       "2025-06-26": 18,
       "2025-06-28": 27,
@@ -50,7 +50,8 @@
       "2026-05-22": 722,
       "2026-05-23": 371,
       "2026-05-24": 334,
-      "2026-05-25": 529
+      "2026-05-25": 545,
+      "2026-05-26": 156
     }
   },
   {
@@ -61,14 +62,14 @@
     "status": "degraded",
     "uptime": "98.55%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "4.89%",
-    "uptimeMonth": "37.06%",
-    "uptimeYear": "94.69%",
-    "time": 404,
-    "timeDay": 1358,
-    "timeWeek": 962,
-    "timeMonth": 818,
-    "timeYear": 410,
+    "uptimeWeek": "3.88%",
+    "uptimeMonth": "36.67%",
+    "uptimeYear": "94.66%",
+    "time": 406,
+    "timeDay": 1100,
+    "timeWeek": 1003,
+    "timeMonth": 822,
+    "timeYear": 411,
     "dailyMinutesDown": {
       "2025-06-26": 18,
       "2025-08-08": 22,
@@ -100,7 +101,8 @@
       "2026-05-20": 1440,
       "2026-05-23": 1326,
       "2026-05-24": 1352,
-      "2026-05-25": 1425
+      "2026-05-26": 156,
+      "2026-05-25": 1440
     }
   }
 ]
