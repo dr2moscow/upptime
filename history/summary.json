@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "99.38%",
     "uptimeDay": "95.85%",
-    "uptimeWeek": "64.44%",
+    "uptimeWeek": "66.01%",
     "uptimeMonth": "71.87%",
     "uptimeYear": "97.57%",
     "time": 463,
@@ -68,12 +68,12 @@
     "slug": "366-ru",
     "status": "degraded",
     "uptime": "98.13%",
-    "uptimeDay": "30.39%",
+    "uptimeDay": "23.32%",
     "uptimeWeek": "8.68%",
-    "uptimeMonth": "15.97%",
-    "uptimeYear": "92.93%",
+    "uptimeMonth": "15.61%",
+    "uptimeYear": "92.90%",
     "time": 432,
-    "timeDay": 1004,
+    "timeDay": 882,
     "timeWeek": 1043,
     "timeMonth": 939,
     "timeYear": 441,
@@ -116,7 +116,7 @@
       "2026-05-29": 1440,
       "2026-05-28": 1440,
       "2026-06-01": 995,
-      "2026-06-02": 15
+      "2026-06-02": 174
     }
   }
 ]
