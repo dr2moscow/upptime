@@ -62,14 +62,14 @@
     "slug": "366-ru",
     "status": "degraded",
     "uptime": "96.00%",
-    "uptimeDay": "19.83%",
+    "uptimeDay": "14.75%",
     "uptimeWeek": "2.87%",
-    "uptimeMonth": "5.14%",
-    "uptimeYear": "83.92%",
+    "uptimeMonth": "4.98%",
+    "uptimeYear": "83.91%",
     "time": 480,
     "timeDay": 1214,
     "timeWeek": 1122,
-    "timeMonth": 1009,
+    "timeMonth": 1015,
     "timeYear": 516,
     "dailyMinutesDown": {
       "2025-08-08": 22,
@@ -143,7 +143,7 @@
       "2026-07-01": 1440,
       "2026-06-30": 1440,
       "2026-06-29": 1440,
-      "2026-07-06": 79
+      "2026-07-06": 152
     }
   }
 ]
