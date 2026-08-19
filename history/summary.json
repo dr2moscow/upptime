@@ -6,14 +6,14 @@
     "slug": "gorzdrav-org",
     "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "65.50%",
-    "uptimeWeek": "57.23%",
+    "uptimeDay": "67.55%",
+    "uptimeWeek": "57.36%",
     "uptimeMonth": "84.21%",
     "uptimeYear": "98.68%",
     "time": 643,
-    "timeDay": 779,
+    "timeDay": 784,
     "timeWeek": 786,
-    "timeMonth": 782,
+    "timeMonth": 781,
     "timeYear": 662,
     "dailyMinutesDown": {
       "2026-08-08": 314,
@@ -35,16 +35,16 @@
     "url": "https://366.ru",
     "icon": "https://366.ru/favicon.ico",
     "slug": "366-ru",
-    "status": "degraded",
+    "status": "up",
     "uptime": "93.40%",
-    "uptimeDay": "5.51%",
+    "uptimeDay": "5.52%",
     "uptimeWeek": "4.24%",
     "uptimeMonth": "1.75%",
-    "uptimeYear": "72.26%",
-    "time": 567,
-    "timeDay": 915,
-    "timeWeek": 977,
-    "timeMonth": 991,
+    "uptimeYear": "72.25%",
+    "time": 564,
+    "timeDay": 888,
+    "timeWeek": 968,
+    "timeMonth": 987,
     "timeYear": 637,
     "dailyMinutesDown": {
       "2025-12-31": 24,
@@ -160,7 +160,7 @@
       "2026-08-16": 1366,
       "2026-08-17": 1394,
       "2026-08-18": 1412,
-      "2026-08-19": 362
+      "2026-08-19": 428
     }
   }
 ]
