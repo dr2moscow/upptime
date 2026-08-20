@@ -35,16 +35,16 @@
     "url": "https://366.ru",
     "icon": "https://366.ru/favicon.ico",
     "slug": "366-ru",
-    "status": "degraded",
+    "status": "up",
     "uptime": "93.35%",
-    "uptimeDay": "8.31%",
+    "uptimeDay": "5.87%",
     "uptimeWeek": "4.42%",
     "uptimeMonth": "1.95%",
-    "uptimeYear": "72.01%",
-    "time": 571,
-    "timeDay": 931,
-    "timeWeek": 949,
-    "timeMonth": 988,
+    "uptimeYear": "72.00%",
+    "time": 572,
+    "timeDay": 909,
+    "timeWeek": 940,
+    "timeMonth": 984,
     "timeYear": 642,
     "dailyMinutesDown": {
       "2025-12-31": 24,
@@ -161,7 +161,7 @@
       "2026-08-17": 1394,
       "2026-08-18": 1412,
       "2026-08-19": 1333,
-      "2026-08-20": 349
+      "2026-08-20": 399
     }
   }
 ]
