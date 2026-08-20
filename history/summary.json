@@ -6,10 +6,10 @@
     "slug": "gorzdrav-org",
     "status": "degraded",
     "uptime": "99.71%",
-    "uptimeDay": "62.31%",
+    "uptimeDay": "57.77%",
     "uptimeWeek": "57.53%",
-    "uptimeMonth": "85.39%",
-    "uptimeYear": "98.78%",
+    "uptimeMonth": "85.24%",
+    "uptimeYear": "98.77%",
     "time": 631,
     "timeDay": 786,
     "timeWeek": 789,
@@ -26,7 +26,8 @@
       "2026-08-16": 602,
       "2026-08-17": 601,
       "2026-08-18": 591,
-      "2026-08-19": 543
+      "2026-08-19": 559,
+      "2026-08-20": 50
     }
   },
   {
@@ -39,11 +40,11 @@
     "uptimeDay": "7.38%",
     "uptimeWeek": "4.13%",
     "uptimeMonth": "1.88%",
-    "uptimeYear": "72.08%",
+    "uptimeYear": "72.07%",
     "time": 569,
     "timeDay": 888,
     "timeWeek": 950,
-    "timeMonth": 989,
+    "timeMonth": 990,
     "timeYear": 641,
     "dailyMinutesDown": {
       "2025-12-31": 24,
@@ -159,7 +160,8 @@
       "2026-08-16": 1366,
       "2026-08-17": 1394,
       "2026-08-18": 1412,
-      "2026-08-19": 1317
+      "2026-08-19": 1333,
+      "2026-08-20": 50
     }
   }
 ]
