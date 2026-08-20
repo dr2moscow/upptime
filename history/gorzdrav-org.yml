@@ -1,7 +1,7 @@
 url: https://gorzdrav.org
-status: up
+status: degraded
 code: 200
-responseTime: 617
-lastUpdated: 2026-08-20T00:50:23.796Z
+responseTime: 800
+lastUpdated: 2026-08-20T03:53:12.658Z
 startTime: 2022-05-31T13:01:53.000Z
 generator: Upptime <https://github.com/upptime/upptime>
