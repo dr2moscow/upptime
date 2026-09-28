@@ -7,13 +7,13 @@
     "status": "up",
     "uptime": "98.87%",
     "uptimeDay": "51.00%",
-    "uptimeWeek": "58.79%",
-    "uptimeMonth": "49.07%",
+    "uptimeWeek": "60.02%",
+    "uptimeMonth": "49.47%",
     "uptimeYear": "95.12%",
-    "time": 674,
-    "timeDay": 769,
-    "timeWeek": 790,
-    "timeMonth": 787,
+    "time": 675,
+    "timeDay": 791,
+    "timeWeek": 782,
+    "timeMonth": 786,
     "timeYear": 691,
     "dailyMinutesDown": {
       "2026-08-23": 333,
@@ -61,15 +61,15 @@
     "icon": "https://366.ru/favicon.ico",
     "slug": "366-ru",
     "status": "degraded",
-    "uptime": "91.41%",
-    "uptimeDay": "38.30%",
+    "uptime": "91.40%",
+    "uptimeDay": "36.27%",
     "uptimeWeek": "16.11%",
     "uptimeMonth": "6.71%",
-    "uptimeYear": "62.81%",
-    "time": 664,
-    "timeDay": 822,
-    "timeWeek": 928,
-    "timeMonth": 1029,
+    "uptimeYear": "62.77%",
+    "time": 665,
+    "timeDay": 759,
+    "timeWeek": 925,
+    "timeMonth": 1026,
     "timeYear": 702,
     "dailyMinutesDown": {
       "2026-05-09": 1397,
@@ -215,7 +215,7 @@
       "2026-09-25": 1134,
       "2026-09-26": 1074,
       "2026-09-27": 889,
-      "2026-09-28": 0
+      "2026-09-28": 177
     }
   }
 ]
