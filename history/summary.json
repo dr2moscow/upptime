@@ -8,10 +8,10 @@
     "uptime": "98.84%",
     "uptimeDay": "73.64%",
     "uptimeWeek": "61.46%",
-    "uptimeMonth": "51.29%",
+    "uptimeMonth": "51.45%",
     "uptimeYear": "94.98%",
     "time": 677,
-    "timeDay": 701,
+    "timeDay": 684,
     "timeWeek": 771,
     "timeMonth": 785,
     "timeYear": 692,
@@ -63,12 +63,12 @@
     "slug": "366-ru",
     "status": "degraded",
     "uptime": "91.48%",
-    "uptimeDay": "37.20%",
+    "uptimeDay": "35.96%",
     "uptimeWeek": "21.37%",
     "uptimeMonth": "7.98%",
-    "uptimeYear": "63.06%",
+    "uptimeYear": "63.04%",
     "time": 667,
-    "timeDay": 743,
+    "timeDay": 772,
     "timeWeek": 855,
     "timeMonth": 999,
     "timeYear": 705,
@@ -216,7 +216,7 @@
       "2026-09-27": 889,
       "2026-09-28": 1397,
       "2026-09-29": 792,
-      "2026-09-30": 113
+      "2026-09-30": 181
     }
   }
 ]
