@@ -5,11 +5,11 @@
     "icon": "https://www.gorzdrav.org/favicon.ico",
     "slug": "gorzdrav-org",
     "status": "degraded",
-    "uptime": "98.53%",
-    "uptimeDay": "78.96%",
-    "uptimeWeek": "63.01%",
-    "uptimeMonth": "54.95%",
-    "uptimeYear": "93.59%",
+    "uptime": "98.49%",
+    "uptimeDay": "15.46%",
+    "uptimeWeek": "58.26%",
+    "uptimeMonth": "53.61%",
+    "uptimeYear": "93.41%",
     "time": 679,
     "timeDay": 894,
     "timeWeek": 841,
@@ -65,7 +65,7 @@
       "2026-10-09": 440,
       "2026-10-10": 1174,
       "2026-10-11": 250,
-      "2026-10-12": 90
+      "2026-10-12": 1005
     }
   },
   {
@@ -73,16 +73,16 @@
     "url": "https://366.ru",
     "icon": "https://366.ru/favicon.ico",
     "slug": "366-ru",
-    "status": "degraded",
-    "uptime": "92.27%",
-    "uptimeDay": "72.10%",
+    "status": "up",
+    "uptime": "92.23%",
+    "uptimeDay": "30.06%",
     "uptimeWeek": "37.81%",
     "uptimeMonth": "22.26%",
-    "uptimeYear": "66.23%",
-    "time": 689,
-    "timeDay": 798,
-    "timeWeek": 783,
-    "timeMonth": 886,
+    "uptimeYear": "66.06%",
+    "time": 646,
+    "timeDay": 768,
+    "timeWeek": 771,
+    "timeMonth": 882,
     "timeYear": 721,
     "dailyMinutesDown": {
       "2026-05-31": 194,
@@ -219,7 +219,7 @@
       "2026-10-09": 1007,
       "2026-10-11": 531,
       "2026-10-10": 1370,
-      "2026-10-12": 93
+      "2026-10-12": 1007
     }
   }
 ]
