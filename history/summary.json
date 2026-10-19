@@ -7,13 +7,13 @@
     "status": "degraded",
     "uptime": "98.26%",
     "uptimeDay": "20.67%",
-    "uptimeWeek": "30.61%",
-    "uptimeMonth": "50.36%",
-    "uptimeYear": "92.38%",
+    "uptimeWeek": "29.85%",
+    "uptimeMonth": "50.28%",
+    "uptimeYear": "92.36%",
     "time": 689,
     "timeDay": 1636,
     "timeWeek": 893,
-    "timeMonth": 808,
+    "timeMonth": 807,
     "timeYear": 707,
     "dailyMinutesDown": {
       "2026-08-25": 23,
@@ -71,7 +71,7 @@
       "2026-10-16": 1180,
       "2026-10-17": 1232,
       "2026-10-18": 1167,
-      "2026-10-19": 30
+      "2026-10-19": 139
     }
   },
   {
@@ -81,14 +81,14 @@
     "slug": "366-ru",
     "status": "degraded",
     "uptime": "93.51%",
-    "uptimeDay": "38.01%",
-    "uptimeWeek": "34.07%",
-    "uptimeMonth": "26.64%",
-    "uptimeYear": "71.54%",
+    "uptimeDay": "30.45%",
+    "uptimeWeek": "33.33%",
+    "uptimeMonth": "26.62%",
+    "uptimeYear": "71.52%",
     "time": 660,
     "timeDay": 888,
-    "timeWeek": 817,
-    "timeMonth": 835,
+    "timeWeek": 809,
+    "timeMonth": 833,
     "timeYear": 731,
     "dailyMinutesDown": {
       "2026-06-27": 1310,
@@ -207,7 +207,7 @@
       "2026-10-16": 775,
       "2026-10-17": 896,
       "2026-10-18": 880,
-      "2026-10-19": 55
+      "2026-10-19": 164
     }
   }
 ]
